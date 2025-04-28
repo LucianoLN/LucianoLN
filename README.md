@@ -12,7 +12,7 @@
 <img align="center" alt="Prolog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
-
+![snake gif](https://github.com/LucianoLN/LucianoLN/blob/output/github-contribution-grid-snake.svg)
 <!--
 **LucianoLN/LucianoLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
