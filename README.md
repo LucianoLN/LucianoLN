@@ -13,6 +13,14 @@
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoLN/LucianoLN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoLN/LucianoLN/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucianoLN/LucianoLN/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 <!--
 **LucianoLN/LucianoLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
